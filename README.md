@@ -10,7 +10,10 @@ Hold BOOT on your device, click "Connect" and select
 Choose the appropriate Model and Version
 Click "Program" to start flashing
 
-![sc00000](https://github.com/user-attachments/assets/0bcd14e3-a52e-43d0-b5b9-530482234f27)
+![sc00000](https://github.com/user-attachments/assets/0bcd14e3-a52e-43d0-b5b9-530482234f27
+
+
+https://fr4nkfletcher.github.io/Adafruit_WebSerial_ESPTool/
 
 
 Troubleshooting:
